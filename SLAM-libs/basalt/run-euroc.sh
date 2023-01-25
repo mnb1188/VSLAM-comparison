@@ -1,0 +1,1 @@
+./build/basalt_vio --dataset-path ../Datasets/EuRoc/MH_01_easy/ --cam-calib data/euroc_ds_calib.json --dataset-type euroc --config-path data/euroc_config.json --marg-data ../Datasets/EuRoc/MH_01_easy/euroc_marg_data --show-gui 1
