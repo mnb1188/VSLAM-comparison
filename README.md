@@ -17,6 +17,6 @@ Sadly GitHub restricts the size of files, which can be uploaded on the platform.
 
 <ul>
   <li>[Calibration fotos](https://drive.google.com/file/d/1he-gtlJpXwBipCnE08h-BBIN99lFWaGl/view?usp=sharing) </li>
-  <li>[Recording used as a dataset](https://drive.google.com/file/d/1-HpYArJNET3oy88xT8W6whI5Bca3qSB0/view?usp=sharing) </li>
-  <li>[Video presenting how ORB-SLAM3 processed self-made dataset]()</li>
+  <li>[Recording used as a dataset](https://drive.google.com/file/d/1cCL96Ixecvc7iXgdXLiTvw-n5Hds_eTy/view?usp=sharing) </li>
+  <li>[Video presenting how ORB-SLAM3 processed self-made dataset](https://drive.google.com/file/d/14Xs0tO8RjxdOmuXmCy83_amX0MB-eNGG/view?usp=sharing)</li>
 </ul>
